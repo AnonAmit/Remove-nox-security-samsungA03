@@ -87,6 +87,9 @@ If you received this device through the Uttar Pradesh government's free phone in
      pm disable-user --user 0 com.sec.enterprise.knox.cloudmdm.smdms
      ```
    - Exit Termux by typing `exit` twice.
+   - Keep pressing back button in the bottom left until it gets to "Welcome!" again.
+   - Setup your device like normal.
+   - You have *your* device back!
 
 By following this guide, you will successfully root your Samsung Galaxy A03 and remove any privacy-invasive software. Enjoy your fully controlled device!
 
